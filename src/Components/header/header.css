@@ -1,0 +1,9 @@
+.header{
+    width: 100%;
+    height: 40vh;
+    background: linear-gradient(rgb(163, 22, 245) , grey);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: aliceblue;
+}
